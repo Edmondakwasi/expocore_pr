@@ -1,11 +1,15 @@
 import React from 'react'
 
+import Logo from '../assets/logo.png'
+
 const Navbar = () => {
   return (
     <div className="navbar bg-base-100">
-  <div className="flex-1">
-    <a className="btn btn-ghost text-xl">daisyUI</a>
-  </div>
+    <a href="/" className="flex-1"> 
+    
+    <img  src={Logo} alt="logo" className="w-40 h-20 p-2" />
+    
+    </a>
   <div className="flex-none">
     <ul className="menu menu-horizontal px-1">
       <li>

@@ -1,5 +1,6 @@
 import React from 'react'
 
+
 const Hero = () => {
   return (
     <>
@@ -14,7 +15,8 @@ const Hero = () => {
           Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem
           quasi. In deleniti eaque aut repudiandae et a id nisi.
         </p>
-        <button className="btn btn-primary">Get Started</button>
+        <button className="btn btn-primary mr-5">Get Started</button>
+        {/* <Rating /> */}
       </div>
     </div>
   </div>
