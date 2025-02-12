@@ -8,7 +8,7 @@ const Hero = () => {
     <div className="hero-content flex-col lg:flex-row-reverse">
       <img
         src="https://img.daisyui.com/images/stock/photo-1635805737707-575885ab0820.webp"
-        className="max-w-sm rounded-lg shadow-2xl ml-32" />
+        className="w-96 rounded-lg shadow-2xl ml-32" />
       <div>
         <h1 className="text-7xl font-bold pb-8">We are a B2C  PR <br /> company  on a mission <br /> <i> to grow your brand</i></h1>
         <p className="text-2xl">
