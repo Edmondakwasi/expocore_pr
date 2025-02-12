@@ -2,10 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
-.img {
-    @apply ml-24;
+.navbar {
+    @apply flex justify-between items-center;
 }
 
+
 .navbar .btn {
-    @apply flex table-row justify-between;
+    @apply flex table-row justify-between mr-24;
 }
