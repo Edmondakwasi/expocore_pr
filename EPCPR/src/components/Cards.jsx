@@ -2,7 +2,7 @@ import React from 'react'
 
 const Cards = () => {
   return (
-    <>
+    <div className="p-14">
     <h4 className="text-4xl font-bold text-center pt-14">No fluff. We get results. And we can prove it.</h4>
     <p className="pt-3 text-center">We've supported over 100+ Fast growing companies to grow and build trust with strategic PR.</p>
     <div className="grid grid-cols-2 pt-10">
@@ -47,7 +47,7 @@ const Cards = () => {
   </div>
 </div>
 </div>
-    </>
+    </div>
   )
 }
 

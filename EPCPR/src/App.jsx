@@ -8,6 +8,8 @@ import Services from './components/Services'
 import Cards from './components/Cards'
 import Brands from './components/Brands'
 import Testimonials from './components/Testimonials'
+import Casestudy from './components/Casestudy'
+import Calltoaction from './components/Calltoaction'
 
 
 import Footer from './components/Footer'
@@ -24,6 +26,8 @@ function App() {
     <Cards />
     <Brands />
     <Testimonials />
+    <Casestudy />
+    <Calltoaction />
     <Footer />
     </>
   );

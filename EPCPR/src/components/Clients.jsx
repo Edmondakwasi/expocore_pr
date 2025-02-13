@@ -2,7 +2,7 @@ import React from 'react'
 
 const Clients = () => {
   return (
-    <>
+    <div>
     <h1 className="pt-14 font-extrabold text-4xl text-nowrap text-center">Our Clients</h1>
 <div className="w-96 ml-32">
     
@@ -27,7 +27,7 @@ const Clients = () => {
        
     </div>
 </div>
-</>
+</div>
   )
 }
 

@@ -2,7 +2,7 @@ import React from 'react'
 
 const Services = () => {
   return (
-    <>
+    <div>
     <div className="grid grid-cols-2 pt-10 bg-base-200 pb-24">
         
    
@@ -38,7 +38,7 @@ const Services = () => {
   </div>
   
 
-  </>
+  </div>
   )
 }
 
