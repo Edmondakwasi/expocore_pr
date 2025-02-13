@@ -3,10 +3,10 @@ import React from 'react'
 const Casestudy = () => {
   return (
     <div className="bg-base-200 p-20">
-        <h1 className="font-extrabold text-4xl text-nowrap text-center">Case studies with proven results</h1>
+        <h1 className="font-extrabold text-4xl text-nowrap text-center">Case study with proven results</h1>
         <p className="pt-3 text-center">Read our case studies to see how we tailored our approach <br /> to ensure we hit the desired outcomes unique to every client.</p>
         <div className="grid grid-cols-2 gab-2 ">
-            <div className="card lg:card-side bg-base-100 shadow-xl mr-5 mt-10">
+            <div className="card lg:card-side bg-base-100 shadow-xl mr-5 mt-14">
                 
                     {/* Left section with image */}
                     <figure className="relative w-full lg:w-1/2">
@@ -35,7 +35,7 @@ const Casestudy = () => {
                     </div>
                 </div>
             </div>
-            <div className="card lg:card-side bg-base-100 shadow-xl ml-5 mt-10">
+            <div className="card lg:card-side bg-base-100 shadow-xl ml-5 mt-14">
                 
                     {/* Left section with image */}
                     <figure className="relative w-full lg:w-1/2">

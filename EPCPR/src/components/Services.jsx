@@ -32,8 +32,17 @@ const Services = () => {
     </div>
   </div>
   </div>
+  <div className="flex flex-col justify-center ml-14">
+          <h2 className="text-3xl font-bold">Expand into new markets with Expocore PR</h2>
+          <p className="mt-4 text-sm ml-5">
+            We build localized PR strategies to expand your brand and create visibility in desired markets.
+          </p>
+          <button className="mt-4 px-2 py-2 rounded-lg">
+            Book a discovery call
+          </button>
+        </div>
 
-    <h2 className="text-2xl font-bold mr-10 text-wrap mt-24">Grow your reach with our results-driven tech PR services</h2>
+   
    
   </div>
   
