@@ -10,6 +10,7 @@ import Brands from './components/Brands'
 import Testimonials from './components/Testimonials'
 import Casestudy from './components/Casestudy'
 import Calltoaction from './components/Calltoaction'
+import Faq from './components/Faq'
 
 
 import Footer from './components/Footer'
@@ -28,6 +29,7 @@ function App() {
     <Testimonials />
     <Casestudy />
     <Calltoaction />
+    <Faq />
     <Footer />
     </>
   );
