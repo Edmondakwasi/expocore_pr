@@ -4,24 +4,24 @@ const Cards = () => {
   return (
     <div className="p-4 md:p-8 lg:p-14">
       {/* Main Title */}
-      <h4 className="text-2xl md:text-3xl lg:text-4xl font-bold text-center pt-8 md:pt-14 mb-4">
+      <h4 className="font-display text-2xl md:text-3xl lg:text-4xl font-bold text-center pt-8 md:pt-14 mb-4">
         No fluff. <span className="italic">We get results.</span> And we can prove it.
       </h4>
-      <p className="pt-3 pb-8 md:pb-12 lg:pb-16 text-center text-base md:text-lg max-w-3xl mx-auto">
-        We've supported over 100 fast-growing companies to grow and build trust with strategic PR.
+      <p className="font-sans pt-3 pb-8 md:pb-12 lg:pb-16 text-center text-base md:text-lg max-w-3xl mx-auto">
+        We've supported over 100 fast-growing companies <br /> to grow and build trust with strategic PR.
       </p>
 
       {/* Cards Grid */}
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 md:gap-12 lg:gap-16">
         {/* Text Section */}
         <div className="flex flex-col justify-center space-y-4 md:space-y-6 text-center lg:text-left">
-          <h2 className="text-2xl md:text-3xl font-bold">
+          <h2 className="font-display text-2xl md:text-3xl font-bold">
             Expand into new markets with Expocore PR
           </h2>
-          <p className="text-sm md:text-base lg:text-lg">
+          <p className="font-sans text-sm md:text-base lg:text-lg">
             We build localized PR strategies to expand your brand and create visibility in desired markets.
           </p>
-          <button className="btn btn-primary w-44 sm:w-auto mx-auto lg:mx-0">
+          <button className="font-sans btn btn-primary w-44 sm:w-auto mx-auto lg:mx-0">
             Book a discovery call
           </button>
         </div>
@@ -37,8 +37,8 @@ const Cards = () => {
                 className="w-full h-full object-cover"
               />
               <div className="absolute bottom-0 left-0 p-3 md:p-5 bg-gradient-to-t from-black to-transparent w-full text-white">
-                <h3 className="text-base md:text-lg font-semibold">SoftBank's First Saudi Deal</h3>
-                <p className="text-xs md:text-sm">Follows UAE, Turkey Investments</p>
+                <h3 className="font-display text-base md:text-lg font-semibold">SoftBank's First Saudi Deal</h3>
+                <p className="font- sans text-xs md:text-sm">Follows UAE, Turkey Investments</p>
               </div>
             </figure>
 
@@ -46,8 +46,8 @@ const Cards = () => {
             <div className="card-body p-4 md:p-6 w-full lg:w-1/2">
               <span className="badge badge-outline">TELECOM</span>
               <h2 className="card-title text-lg md:text-xl">Unifonic case study</h2>
-              <p className="text-sm md:text-base">Leveraging a successful funding round to boost global player status.</p>
-              <button className="btn btn-primary w-44 sm:w-auto">Read case study</button>
+              <p className="font-sanstext-sm md:text-base">Leveraging a successful funding round to boost global player status.</p>
+              <button className="font-sans btn btn-primary w-44 sm:w-auto">Read case study</button>
               <div className="flex flex-col sm:flex-row justify-between text-gray-500 text-xs md:text-sm mt-3 space-y-2 sm:space-y-0">
                 <span><strong>390M</strong> Online readership</span>
                 <span><strong>103+</strong> Pieces of coverage</span>
@@ -87,7 +87,7 @@ const Cards = () => {
         </div>
 
         <div className="flex flex-col justify-center space-y-4 md:space-y-6 text-center lg:text-left">
-          <h2 className="text-2xl md:text-3xl font-bold">
+          <h2 className="font-display text-2xl md:text-3xl font-bold">
             Expand into new markets with Expocore PR
           </h2>
           <p className="text-sm md:text-base lg:text-lg">
@@ -99,7 +99,7 @@ const Cards = () => {
         </div>
 
         <div className="flex flex-col justify-center space-y-4 md:space-y-6 text-center lg:text-left">
-          <h2 className="text-2xl md:text-3xl font-bold">
+          <h2 className="font-display text-2xl md:text-3xl font-bold">
             Expand into new markets with Expocore PR
           </h2>
           <p className="text-sm md:text-base lg:text-lg">

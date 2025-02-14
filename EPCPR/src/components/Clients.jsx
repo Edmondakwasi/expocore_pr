@@ -3,7 +3,7 @@ import React from 'react'
 const Clients = () => {
   return (
     <div className="container mx-auto px-4 md:px-8">
-      <h1 className="pt-8 md:pt-14 font-extrabold text-2xl md:text-3xl lg:text-4xl text-center">
+      <h1 className="font-display pt-8 md:pt-14 font-extrabold text-2xl md:text-3xl lg:text-4xl text-center">
         Our Clients
       </h1>
       

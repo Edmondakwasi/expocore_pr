@@ -47,7 +47,7 @@ const Navbar = () => {
       {/* Theme toggle button */}
       <button 
         onClick={toggleTheme}
-        className="btn btn-ghost btn-circle"
+        className="btn btn-ghost btn-circle flex items-center justify-center p-2"
       >
         {theme === 'light' ? (
           <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">

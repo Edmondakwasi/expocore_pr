@@ -3,11 +3,11 @@ import React from 'react'
 const Brands = () => {
   return (
     <div className="bg-base-200 px-4 md:px-8 py-10 md:py-16">
-      <h1 className="font-extrabold text-2xl md:text-3xl lg:text-4xl text-center mb-8 md:mb-12">
+      <h1 className="font-display font-extrabold text-2xl md:text-3xl lg:text-4xl text-center mb-8 md:mb-12">
         Trusted by 30+ brands worldwide
       </h1>
 
-      <div className="max-w-7xl mx-auto">
+      <div className="max-w-7xl mx-auto font-sans">
         <div className="carousel w-full">
           <div id="slide1" className="carousel-item relative w-full flex justify-center">
             <img 
