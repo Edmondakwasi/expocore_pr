@@ -8,7 +8,7 @@ const Clients = () => {
       </h1>
       
       <div className="max-w-7xl mx-auto overflow-x-auto">
-        <div className="flex flex-row justify-start md:justify-center items-center gap-4 md:gap-10 lg:gap-12 py-8 md:py-14 min-w-max px-4"> 
+        <div className="flex flex-row justify-center items-center gap-4 md:gap-10 lg:gap-12 py-8 md:py-14 min-w-max px-4"> 
           <img
             src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
             alt="Client 1"

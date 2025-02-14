@@ -42,55 +42,44 @@ const Footer = () => {
     </p>
   </aside>
   <nav className="md:place-self-center md:justify-self-end">
-    <div className="grid grid-flow-col gap-4">
+  <div className="grid grid-flow-col gap-4">
+    {/* X (Twitter) Icon */}
     <a
-  href="https://x.com/ExpocorePR?t=adwhsOCR48Qfx0Bh7YwHyg&s=09"
-  target="_blank"
-  rel="noopener noreferrer"
-  className="fill-current"
->
-<svg width="24" height="24" viewBox="0 0 1200 1227" fill="dark" xmlns="http://www.w3.org/2000/svg">
-  <path d="M714.163 519.284L1160.89 0H1055.03L667.137 450.887L357.328 0H0L468.492 681.821L0 1226.37H105.866L515.491 750.218L842.672 1226.37H1200L714.137 519.284H714.163ZM569.165 687.828L521.697 619.934L144.011 79.6944H306.615L611.412 515.685L658.88 583.579L1055.08 1150.3H892.476L569.165 687.854V687.828Z" fill="white"/>
-</svg>
-</a>
+      href="https://x.com/ExpocorePR?t=adwhsOCR48Qfx0Bh7YwHyg&s=09"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="hover:opacity-75 transition-opacity"
+    >
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+        <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
+      </svg>
+    </a>
 
-      <a
-  href="https://www.instagram.com/expocore_pr?igsh=MTNxdDRoMngwbjJnaw=="
-  target="_blank"
-  rel="noopener noreferrer"
-  className="fill-current"
->
-  <svg
-    xmlns="https://www.tiktok.com/@expocore.pr?_t=ZM-8tmZSxH6CJy&_r="
-    width="24"
-    height="24"
-    viewBox="0 0 24 24"
-    className="fill-current"
-  >
-    <path d="M7.75 2C4.574 2 2 4.574 2 7.75v8.5C2 19.426 4.574 22 7.75 22h8.5C19.426 22 22 19.426 22 16.25v-8.5C22 4.574 19.426 2 16.25 2h-8.5zm0 2h8.5A3.75 3.75 0 0 1 20 7.75v8.5A3.75 3.75 0 0 1 16.25 20h-8.5A3.75 3.75 0 0 1 4 16.25v-8.5A3.75 3.75 0 0 1 7.75 4zM18 6.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zM12 7a5 5 0 1 0 0 10 5 5 0 0 0 0-10zm0 2a3 3 0 1 1 0 6 3 3 0 0 1 0-6z" />
-  </svg>
-</a>
+    {/* Instagram Icon */}
+    <a
+      href="https://www.instagram.com/expocore_pr?igsh=MTNxdDRoMngwbjJnaw=="
+      target="_blank"
+      rel="noopener noreferrer"
+      className="hover:opacity-75 transition-opacity"
+    >
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+        <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/>
+      </svg>
+    </a>
 
-<a
-  href="https://www.tiktok.com/"
-  target="_blank"
-  rel="noopener noreferrer"
-  className="fill-current"
->
-  <svg
-    xmlns="http://www.w3.org/2000/svg"
-    width="24"
-    height="24"
-    viewBox="0 0 24 24"
-    className="fill-current"
-  >
-    <path d="M12 2c.4 1.6 1.2 3 2.3 4.1 1.2 1.2 2.6 1.9 4.3 2.1V12c-.9 0-1.8-.1-2.7-.3v3.7c0 2.4-1.9 4.5-4.3 4.8-2.8.4-5.3-1.8-5.3-4.5 0-1.9 1.2-3.6 2.9-4.3v3.1c0 1-.1 1.9.8 2.5.6.4 1.5.3 2.1-.1.7-.4.8-1.3.8-2V2h3.8c.1.8.4 1.6.8 2.3.7 1.2 1.8 2.1 3.2 2.5v3.1c-1.6-.1-3.1-.7-4.4-1.5v7c0 2.7-1.9 5.1-4.6 5.5-3.2.5-6.1-1.9-6.1-5 0-2.2 1.4-4.2 3.5-4.9V8.5c-3.9 1.1-6.2 5.1-5 9 1.1 3.8 5 6 8.7 4.8 3.4-1 5.6-4.2 5.6-7.7V6.5c-1.2-.5-2.3-1.4-3.1-2.5-.6-.8-1-1.7-1.3-2.6h-3.6z" />
-  </svg>
-</a>
-
-
-    </div>
-  </nav>
+    {/* TikTok Icon */}
+    <a
+      href="https://www.tiktok.com/@expocore.pr"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="hover:opacity-75 transition-opacity"
+    >
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+        <path d="M19.59 6.69a4.83 4.83 0 0 1-3.77-4.25V2h-3.45v13.67a2.89 2.89 0 0 1-5.2 1.74 2.89 2.89 0 0 1 2.31-4.64 2.93 2.93 0 0 1 .88.13V9.4a6.84 6.84 0 0 0-1-.05A6.33 6.33 0 0 0 5 20.1a6.34 6.34 0 0 0 10.86-4.43v-7a8.16 8.16 0 0 0 4.77 1.52v-3.4a4.85 4.85 0 0 1-1-.1z"/>
+      </svg>
+    </a>
+  </div>
+</nav>
 </footer>
 </>
   )

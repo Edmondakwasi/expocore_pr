@@ -2,52 +2,55 @@ import React from 'react'
 
 const Services = () => {
   return (
-    <div>
-    <div className="grid grid-cols-2 pt-10 bg-base-200 pb-24">
-        
-   
-    <div className="grid grid-cols-2 pt-10">
-    <div className="card bg-primary text-primary-content w-80 h-40 mb-10 ml-10">
-    <div className="card-body">
-      <h2 className="card-title">Card title!</h2>
-      <p>If a dog chews shoes whose shoes does he choose?</p>
-    </div>
-  </div>
-  <div className="card bg-primary text-primary-content w-80 h-40 mb-10 ">
-    <div className="card-body">
-      <h2 className="card-title">Card title!</h2>
-      <p>If a dog chews shoes whose shoes does he choose?</p>
-    </div>
-  </div>
-  <div className="card bg-primary text-primary-content w-80 h-40 ml-10">
-    <div className="card-body">
-      <h2 className="card-title">Card title!</h2>
-      <p>If a dog chews shoes whose shoes does he choose?</p>
-    </div>
-  </div>
-  <div className="card bg-primary text-primary-content w-80 h-40 mr-36">
-    <div className="card-body">
-      <h2 className="card-title">Card title!</h2>
-      <p>If a dog chews shoes whose shoes does he choose?</p>
-    </div>
-  </div>
-  </div>
-  <div className="flex flex-col justify-center ml-14">
-          <h2 className="text-3xl font-bold">Expand into new markets with Expocore PR</h2>
-          <p className="mt-4 text-sm ml-5">
-            We build localized PR strategies to expand your brand and create visibility in desired markets.
-          </p>
-          <button className="mt-4 px-2 py-2 rounded-lg">
-            Book a discovery call
-          </button>
+    <div className="bg-base-200">
+      <div className="container mx-auto px-4 py-10 md:py-16 lg:py-24">
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12">
+          {/* Cards Grid */}
+          <div className="grid grid-cols-2 gap-4 md:gap-6">
+            <div className="card bg-primary text-primary-content">
+              <div className="card-body p-4 md:p-6">
+                <h2 className="card-title text-lg md:text-xl">Card title!</h2>
+                <p className="text-sm md:text-base">If a dog chews shoes whose shoes does he choose?</p>
+              </div>
+            </div>
+
+            <div className="card bg-primary text-primary-content">
+              <div className="card-body p-4 md:p-6">
+                <h2 className="card-title text-lg md:text-xl">Card title!</h2>
+                <p className="text-sm md:text-base">If a dog chews shoes whose shoes does he choose?</p>
+              </div>
+            </div>
+
+            <div className="card bg-primary text-primary-content">
+              <div className="card-body p-4 md:p-6">
+                <h2 className="card-title text-lg md:text-xl">Card title!</h2>
+                <p className="text-sm md:text-base">If a dog chews shoes whose shoes does he choose?</p>
+              </div>
+            </div>
+
+            <div className="card bg-primary text-primary-content">
+              <div className="card-body p-4 md:p-6">
+                <h2 className="card-title text-lg md:text-xl">Card title!</h2>
+                <p className="text-sm md:text-base">If a dog chews shoes whose shoes does he choose?</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Content Section */}
+          <div className="flex flex-col justify-center space-y-6 text-center lg:text-left">
+            <h2 className="text-xl md:text-3xl lg:text-4xl font-bold">
+              Expand into new markets with Expocore PR
+            </h2>
+            <p className="text-sm md:text-base">
+              We build localized PR strategies to expand your brand and create visibility in desired markets.
+            </p>
+            <button className="btn btn-primary w-full sm:w-auto mx-auto lg:mx-0">
+              Book a discovery call
+            </button>
+          </div>
         </div>
-
-   
-   
-  </div>
-  
-
-  </div>
+      </div>
+    </div>
   )
 }
 
