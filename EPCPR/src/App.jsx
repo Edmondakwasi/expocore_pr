@@ -11,27 +11,24 @@ import Testimonials from './components/Testimonials'
 import Casestudy from './components/Casestudy'
 import Calltoaction from './components/Calltoaction'
 import Faq from './components/Faq'
-
-
 import Footer from './components/Footer'
+import { ThemeProvider } from './components/ThemeProvider';
 
 function App() {
-  
-
   return (
-    <>
-    <Navbar />
-    <Hero />
-    <Clients />
-    <Services />
-    <Cards />
-    <Brands />
-    <Testimonials />
-    <Casestudy />
-    <Calltoaction />
-    <Faq />
-    <Footer />
-    </>
+    <ThemeProvider>
+      <Navbar />
+      <Hero />
+      <Clients />
+      <Services />
+      <Cards />
+      <Brands />
+      <Testimonials />
+      <Casestudy />
+      <Calltoaction />
+      <Faq />
+      <Footer />
+    </ThemeProvider>
   );
 };
 

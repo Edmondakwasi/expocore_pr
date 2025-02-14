@@ -29,7 +29,11 @@ export default {
         slideUp: 'slideUp 1s ease-out forwards',
         slideInLeft: 'slideInLeft 1s ease-out',
         slideDown: 'slideDown 1s ease-out forwards',
-      }
+      },
+      fontFamily: {
+        sans: ['Inter', 'sans-serif'],
+        display: ['"Playfair Display"', 'serif'],
+      },
     },
   },
   plugins: [

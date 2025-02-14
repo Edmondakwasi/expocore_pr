@@ -21,7 +21,7 @@ const Cards = () => {
           <p className="text-sm md:text-base lg:text-lg">
             We build localized PR strategies to expand your brand and create visibility in desired markets.
           </p>
-          <button className="btn btn-primary w-full sm:w-auto mx-auto lg:mx-0">
+          <button className="btn btn-primary w-44 sm:w-auto mx-auto lg:mx-0">
             Book a discovery call
           </button>
         </div>
@@ -47,7 +47,7 @@ const Cards = () => {
               <span className="badge badge-outline">TELECOM</span>
               <h2 className="card-title text-lg md:text-xl">Unifonic case study</h2>
               <p className="text-sm md:text-base">Leveraging a successful funding round to boost global player status.</p>
-              <button className="btn btn-primary w-full sm:w-auto">Read case study</button>
+              <button className="btn btn-primary w-44 sm:w-auto">Read case study</button>
               <div className="flex flex-col sm:flex-row justify-between text-gray-500 text-xs md:text-sm mt-3 space-y-2 sm:space-y-0">
                 <span><strong>390M</strong> Online readership</span>
                 <span><strong>103+</strong> Pieces of coverage</span>
@@ -64,7 +64,7 @@ const Cards = () => {
               <img
                 src="https://img.daisyui.com/images/stock/photo-1494232410401-ad00d5433cfa.webp"
                 alt="SoftBank Deal"
-                className="w-full h-full object-cover"
+                className="w-44 h-full object-cover"
               />
               <div className="absolute bottom-0 left-0 p-3 md:p-5 bg-gradient-to-t from-black to-transparent w-full text-white">
                 <h3 className="text-base md:text-lg font-semibold">SoftBank's First Saudi Deal</h3>
@@ -77,7 +77,7 @@ const Cards = () => {
               <span className="badge badge-outline">TELECOM</span>
               <h2 className="card-title text-lg md:text-xl">Unifonic case study</h2>
               <p className="text-sm md:text-base">Leveraging a successful funding round to boost global player status.</p>
-              <button className="btn btn-primary w-full sm:w-auto">Read case study</button>
+              <button className="btn btn-primary w-44 sm:w-auto">Read case study</button>
               <div className="flex flex-col sm:flex-row justify-between text-gray-500 text-xs md:text-sm mt-3 space-y-2 sm:space-y-0">
                 <span><strong>390M</strong> Online readership</span>
                 <span><strong>103+</strong> Pieces of coverage</span>
@@ -93,7 +93,7 @@ const Cards = () => {
           <p className="text-sm md:text-base lg:text-lg">
             We build localized PR strategies to expand your brand and create visibility in desired markets.
           </p>
-          <button className="btn btn-primary w-full sm:w-auto mx-auto lg:mx-0">
+          <button className="btn btn-primary w-44 sm:w-auto mx-auto lg:mx-0">
             Book a discovery call
           </button>
         </div>
@@ -105,7 +105,7 @@ const Cards = () => {
           <p className="text-sm md:text-base lg:text-lg">
             We build localized PR strategies to expand your brand and create visibility in desired markets.
           </p>
-          <button className="btn btn-primary w-full sm:w-auto mx-auto lg:mx-0">
+          <button className="btn btn-primary w-44 sm:w-auto mx-auto lg:mx-0">
             Book a discovery call
           </button>
         </div>
@@ -117,7 +117,7 @@ const Cards = () => {
               <img
                 src="https://img.daisyui.com/images/stock/photo-1494232410401-ad00d5433cfa.webp"
                 alt="SoftBank Deal"
-                className="w-full h-full object-cover"
+                className="w-44 h-full object-cover"
               />
               <div className="absolute bottom-0 left-0 p-3 md:p-5 bg-gradient-to-t from-black to-transparent w-full text-white">
                 <h3 className="text-base md:text-lg font-semibold">SoftBank's First Saudi Deal</h3>
@@ -130,7 +130,7 @@ const Cards = () => {
               <span className="badge badge-outline">TELECOM</span>
               <h2 className="card-title text-lg md:text-xl">Unifonic case study</h2>
               <p className="text-sm md:text-base">Leveraging a successful funding round to boost global player status.</p>
-              <button className="btn btn-primary w-full sm:w-auto">Read case study</button>
+              <button className="btn btn-primary w-44 sm:w-auto">Read case study</button>
               <div className="flex flex-col sm:flex-row justify-between text-gray-500 text-xs md:text-sm mt-3 space-y-2 sm:space-y-0">
                 <span><strong>390M</strong> Online readership</span>
                 <span><strong>103+</strong> Pieces of coverage</span>
