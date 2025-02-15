@@ -30,11 +30,11 @@ const Cards = () => {
         <div className="card bg-base-100 shadow-xl">
           <div className="flex flex-col lg:flex-row">
             {/* Left section with image */}
-            <figure className="relative w-full lg:w-1/2 h-48 md:h-64 lg:h-auto">
+            <figure className="relative rounded-t-lg rounded-bl-lg w-full lg:w-1/2 h-48 md:h-64 lg:h-auto">
               <img
                 src="https://img.daisyui.com/images/stock/photo-1494232410401-ad00d5433cfa.webp"
                 alt="SoftBank Deal"
-                className="w-full h-full object-cover"
+                className="w-full h-full object-cover rounded-lg"
               />
               <div className="absolute bottom-0 left-0 p-3 md:p-5 bg-gradient-to-t from-black to-transparent w-full text-white">
                 <h3 className="font-display text-base md:text-lg font-semibold">SoftBank's First Saudi Deal</h3>
@@ -60,7 +60,7 @@ const Cards = () => {
         <div className="card bg-base-100 shadow-xl">
           <div className="flex flex-col lg:flex-row">
             {/* Left section with image */}
-            <figure className="relative w-full lg:w-1/2 h-48 md:h-64 lg:h-auto">
+            <figure className="relative rounded-t-lg rounded-bl-lg w-full lg:w-1/2 h-48 md:h-64 lg:h-auto">
               <img
                 src="https://img.daisyui.com/images/stock/photo-1494232410401-ad00d5433cfa.webp"
                 alt="SoftBank Deal"
@@ -113,7 +113,7 @@ const Cards = () => {
         <div className="card bg-base-100 shadow-xl">
           <div className="flex flex-col lg:flex-row">
             {/* Left section with image */}
-            <figure className="relative w-full lg:w-1/2 h-48 md:h-64 lg:h-auto">
+            <figure className="relative rounded-t-lg rounded-bl-lg w-full lg:w-1/2 h-48 md:h-64 lg:h-auto">
               <img
                 src="https://img.daisyui.com/images/stock/photo-1494232410401-ad00d5433cfa.webp"
                 alt="SoftBank Deal"
