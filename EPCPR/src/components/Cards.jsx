@@ -76,7 +76,7 @@ const Cards = () => {
             <div className="card-body p-4 md:p-6 w-full lg:w-1/2">
               <span className="badge badge-outline">TELECOM</span>
               <h2 className="card-title text-lg md:text-xl">Unifonic case study</h2>
-              <p className="text-sm md:text-base">Leveraging a successful funding round to boost global player status.</p>
+              <p className="text-sm mb-10 md:text-base">Leveraging a successful funding round to boost global player status.</p>
               <button className="btn btn-primary w-44 sm:w-auto">Read case study</button>
               <div className="flex flex-col sm:flex-row justify-between text-gray-500 text-xs md:text-sm mt-3 space-y-2 sm:space-y-0">
                 <span><strong>390M</strong> Online readership</span>
@@ -110,7 +110,7 @@ const Cards = () => {
           </button>
         </div>
 
-        <div className="card bg-base-100 shadow-xl">
+        <div className="card  bg-base-100 shadow-xl">
           <div className="flex flex-col lg:flex-row">
             {/* Left section with image */}
             <figure className="relative rounded-t-lg rounded-bl-lg w-full lg:w-1/2 h-48 md:h-64 lg:h-auto">
@@ -129,7 +129,7 @@ const Cards = () => {
             <div className="card-body p-4 md:p-6 w-full lg:w-1/2">
               <span className="badge badge-outline">TELECOM</span>
               <h2 className="card-title text-lg md:text-xl">Unifonic case study</h2>
-              <p className="text-sm md:text-base">Leveraging a successful funding round to boost global player status.</p>
+              <p className="text-sm mb-10 md:text-base">Leveraging a successful funding round to boost global player status.</p>
               <button className="btn btn-primary w-44 sm:w-auto">Read case study</button>
               <div className="flex flex-col sm:flex-row justify-between text-gray-500 text-xs md:text-sm mt-3 space-y-2 sm:space-y-0">
                 <span><strong>390M</strong> Online readership</span>
