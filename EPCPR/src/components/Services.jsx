@@ -30,8 +30,8 @@ const Services = () => {
 
             <div className="card bg-primary text-primary-content">
               <div className="card-body p-4 md:p-6">
-                <h2 className="font-sans card-title text-lg md:text-xl">Card title!</h2>
-                <p className="font-sans text-sm md:text-base">If a dog chews shoes whose shoes does he choose?</p>
+                <h2 className="font-sans card-title text-lg md:text-xl">Digital PR</h2>
+                <p className="font-sans text-sm md:text-base">We apply core PR principles to a digital context</p>
               </div>
             </div>
           </div>
