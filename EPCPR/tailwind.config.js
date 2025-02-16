@@ -31,8 +31,28 @@ export default {
         slideDown: 'slideDown 1s ease-out forwards',
       },
       fontFamily: {
-        sans: ['Inter', 'sans-serif'],
-        display: ['"Playfair Display"', 'serif'],
+        sans: [
+          'Helvetica Neue',
+          'ui-sans-serif',
+          'system-ui',
+          '-apple-system',
+          'BlinkMacSystemFont',
+          'Segoe UI',
+          'Roboto',
+          'Arial',
+          'sans-serif'
+        ],
+        display: [
+          'Helvetica Neue',
+          'ui-sans-serif',
+          'system-ui',
+          '-apple-system',
+          'BlinkMacSystemFont',
+          'Segoe UI',
+          'Roboto',
+          'Arial',
+          'sans-serif'
+        ],
       },
     },
   },

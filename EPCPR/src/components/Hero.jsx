@@ -32,9 +32,9 @@ const Hero = () => {
             </div>
           </div>
 
-          {/* Text content - full width on mobile */}
+          {/* Text content with updated font */}
           <div className="text-center lg:text-left animate-slideUp w-full lg:w-1/2">
-            <h1 className="font-display text-3xl md:text-4xl lg:text-6xl font-bold pb-4 lg:pb-8 animate-slideInLeft">
+            <h1 className="font-sans text-3xl md:text-4xl lg:text-6xl font-bold pb-4 lg:pb-8 animate-slideInLeft">
               We are a B2C PR <br className="hidden md:block" /> 
               company on a mission <br className="hidden md:block" /> 
               <i className="animate-fadeIn">to grow your brand</i>
