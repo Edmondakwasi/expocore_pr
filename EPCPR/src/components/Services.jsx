@@ -24,14 +24,14 @@ const Services = () => {
             <div className="card bg-primary text-primary-content">
               <div className="card-body p-4 md:p-6">
                 <h2 className="font-sans card-title text-lg md:text-xl">Funding PR</h2>
-                <p className="font-sans text-sm md:text-base">Helping you secure funding from investors</p>
+                <p className="font-sans text-sm md:text-base">Helping you secure funding from investors.</p>
               </div>
             </div>
 
             <div className="card bg-primary text-primary-content">
               <div className="card-body p-4 md:p-6">
                 <h2 className="font-sans card-title text-lg md:text-xl">Digital PR</h2>
-                <p className="font-sans text-sm md:text-base">We apply core PR principles to a digital context</p>
+                <p className="font-sans text-sm md:text-base">We apply core PR principles to a digital context.</p>
               </div>
             </div>
           </div>
