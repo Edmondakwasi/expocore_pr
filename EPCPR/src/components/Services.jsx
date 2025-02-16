@@ -17,7 +17,7 @@ const Services = () => {
             <div className="card bg-primary text-primary-content">
               <div className="card-body p-4 md:p-6">
                 <h2 className="font-sans card-title text-lg md:text-xl">Internal Comms</h2>
-                <p className="font-sans text-sm md:text-base">If a dog chews shoes whose shoes does he choose?</p>
+                <p className="font-sans text-sm md:text-base">Internal communication for corporate</p>
               </div>
             </div>
 
