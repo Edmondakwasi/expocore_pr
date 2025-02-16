@@ -23,8 +23,8 @@ const Services = () => {
 
             <div className="card bg-primary text-primary-content">
               <div className="card-body p-4 md:p-6">
-                <h2 className="font-sans card-title text-lg md:text-xl">Card title!</h2>
-                <p className="font-sans text-sm md:text-base">If a dog chews shoes whose shoes does he choose?</p>
+                <h2 className="font-sans card-title text-lg md:text-xl">Funding PR</h2>
+                <p className="font-sans text-sm md:text-base">Helping you secure funding from investors</p>
               </div>
             </div>
 
