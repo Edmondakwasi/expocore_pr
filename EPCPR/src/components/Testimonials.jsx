@@ -8,7 +8,7 @@ const Testimonials = () => {
           Our mission
         </h1>
         <p className="text-center text-base md:text-xl lg:text-2xl p-4 md:p-6 lg:p-10 max-w-4xl mx-auto animate-slideUp delay-300">
-          "We are a team of passionate PR and marketing experts who are dedicated to helping our clients achieve their business goals through strategic PR and marketing campaigns. Our mission is to provide our clients with the best possible service and results, and to help them grow their businesses and reach their full potential".
+          "To expose the true value of brands through innovative storytelling, strategic communication, and impactful media relations, helping our clients shine in the spotlight and connect to their audiences.".
         </p>
       </div>
     </div>
