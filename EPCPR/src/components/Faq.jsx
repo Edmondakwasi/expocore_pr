@@ -2,7 +2,7 @@ import React from 'react'
 
 const Faq = () => {
   return (
-    <div className="px-4 md:px-8 lg:px-20 py-8 md:py-12 lg:py-20">
+    <div className="md:px-8 lg:px-20 py-8 md:py-12 lg:py-20">
       <h1 className="font-display font-extrabold text-2xl md:text-3xl lg:text-4xl text-center mb-6 md:mb-8 lg:mb-10">
         Still have questions?
       </h1>
@@ -21,6 +21,7 @@ const Faq = () => {
               </p>
             </div>
           </div>
+          <hr />
 
           {/* FAQ Item 2 */}
           <div className="collapse collapse-arrow bg-base-200">
@@ -34,6 +35,7 @@ const Faq = () => {
               </p>
             </div>
           </div>
+          <hr />
 
           {/* FAQ Item 3 */}
           <div className="collapse collapse-arrow bg-base-200">
@@ -47,6 +49,7 @@ const Faq = () => {
               </p>
             </div>
           </div>
+          <hr />
 
           {/* FAQ Item 4 */}
           <div className="collapse collapse-arrow bg-base-200">
@@ -62,6 +65,7 @@ const Faq = () => {
               </p>
             </div>
           </div>
+          <hr />
 
           {/* FAQ Item 5 */}
           <div className="collapse collapse-arrow bg-base-200">
