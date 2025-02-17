@@ -7,7 +7,7 @@ const Faq = () => {
         Still have questions?
       </h1>
       
-      <div className="max-w-4xl mx-auto bg-base-200 rounded-lg p-4 md:p-6 lg:p-8">
+      <div className="max-w-4xl mx-auto bg-base-200 rounded-lg md:p-6 lg:p-8">
         <div className="space-y-4">
           {/* FAQ Item 1 */}
           <div className="collapse collapse-arrow bg-base-200">

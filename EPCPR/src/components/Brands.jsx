@@ -45,13 +45,6 @@ const Brands = () => {
             </div>
           </div>
         </div>
-
-        {/* Carousel indicators */}
-        <div className="flex justify-center w-full py-2 gap-2">
-          <a href="#slide1" className="btn btn-xs">1</a>
-          <a href="#slide2" className="btn btn-xs">2</a>
-          <a href="#slide3" className="btn btn-xs">3</a>
-        </div>
       </div>
     </div>
   )
