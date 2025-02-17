@@ -26,7 +26,7 @@ const Hero = () => {
                     CEO
                   </h3>
                   <p className="text-white/90 text-sm mt-2 max-w-md">
-                    Our dedicated team of experts is  <br /> here to help you achieve your goals.</p>
+                    Our dedicated team of experts is  <br /> here to help you achieve your PR goals.</p>
                 </div>
               </div>
             </div>
