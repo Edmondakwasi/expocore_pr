@@ -44,9 +44,11 @@ const Services = () => {
             <p className="font-sans text-sm md:text-base">
               We build localized PR strategies to expand your brand and create visibility in desired markets.
             </p>
+            <div className="flex justify-center lg:justify-start">
             <button className=" w-44 font-sans btn btn-primary  sm:w-48 mx-48 lg:mx-0">
               Book a discovery call
             </button>
+            </div>
           </div>
         </div>
       </div>
