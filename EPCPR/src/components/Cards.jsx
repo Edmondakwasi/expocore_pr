@@ -21,7 +21,7 @@ const Cards = () => {
           <p className="font-sans text-sm md:text-base lg:text-lg">
             We build localized PR strategies to expand your brand and create visibility in desired markets.
           </p>
-          <button className="font-sans btn btn-primary w-44 sm:w-48 mx-48 lg:mx-0">
+          <button className="font-sans btn btn-primary w-48 sm:w-44 mx-48 lg:mx-0">
             Book a discovery call
           </button>
         </div>
