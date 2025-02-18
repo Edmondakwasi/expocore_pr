@@ -21,9 +21,11 @@ const Cards = () => {
           <p className="font-sans text-sm md:text-base lg:text-lg">
             We build localized PR strategies to expand your brand and create visibility in desired markets.
           </p>
+          <div className="flex justify-center lg:justify-start">
           <button className="font-sans btn btn-primary w-48 sm:w-44 mx-48 lg:mx-0">
             Book a discovery call
           </button>
+          </div>
         </div>
 
         {/* Card Section */}
@@ -93,9 +95,11 @@ const Cards = () => {
           <p className="text-sm md:text-base lg:text-lg">
             We build localized PR strategies to expand your brand and create visibility in desired markets.
           </p>
+          <div className="flex justify-center lg:justify-start">
           <button className="btn btn-primary w-44 sm:w-48 mx-48 lg:mx-0">
             Book a discovery call
           </button>
+          </div>
         </div>
 
         <div className="flex flex-col justify-center space-y-4 md:space-y-6 text-center lg:text-left">
@@ -105,9 +109,11 @@ const Cards = () => {
           <p className="text-sm md:text-base lg:text-lg">
             We build localized PR strategies to expand your brand and create visibility in desired markets.
           </p>
+          <div className="flex justify-center lg:justify-start">
           <button className="btn btn-primary w-44 sm:w-48 mx-48 lg:mx-0">
             Book a discovery call
           </button>
+          </div>
         </div>
 
         <div className="card  bg-base-100 shadow-xl">
