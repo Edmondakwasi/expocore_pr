@@ -8,7 +8,7 @@ const Cards = () => {
         No fluff. <span className="italic">We get results.</span> And we can prove it.
       </h4>
       <p className="font-sans pt-3 pb-8 md:pb-12 lg:pb-16 text-center text-base md:text-lg max-w-3xl mx-auto">
-        We've supported over 100 fast-growing companies <br /> to grow and build trust with strategic PR.
+        We've supported over 100 fast-growing companies to grow and build trust with strategic PR.
       </p>
 
       {/* Cards Grid */}
