@@ -7,7 +7,7 @@ const Calltoaction = () => {
         Do you want to boost your growth with PR?
       </h1>
       <p className="font-sans pt-3 px-4 md:px-6 text-sm md:text-base lg:text-lg text-center max-w-3xl mx-auto">
-        We've helped +100 clients achieve their business goals with the power of Strategic PR across key markets.
+        We've helped 100+ clients achieve their business goals with the power of Strategic PR across key markets.
         
         All our PR strategies are custom-made to fit your needs and meet you at the stage of growth you're at.
       </p>
