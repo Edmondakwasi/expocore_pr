@@ -1,5 +1,7 @@
 import React from 'react'
 
+import ceoImage from '../assets/ceo.png'
+
 const Hero = () => {
   return (
     <>
@@ -12,7 +14,7 @@ const Hero = () => {
             
             <div className="relative">
               <img
-                src="https://img.daisyui.com/images/stock/photo-1635805737707-575885ab0820.webp"
+                src={ceoImage}
                 className="w-96 max-w-sm md:max-w-md lg:max-w-lg rounded-lg shadow-2xl mx-auto lg:ml-32 
                          hover:scale-105 transition-transform duration-300 animate-fadeIn relative z-10" 
                 alt="Hero"
