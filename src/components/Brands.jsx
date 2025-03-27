@@ -2,6 +2,7 @@ import React from 'react'
 
 import brand1Image from '../assets/brand1.png'
 import brand2Image from '../assets/brands.png'
+import brand3Image from '../assets/brand3.png'
 
 const Brands = () => {
   return (
@@ -38,7 +39,7 @@ const Brands = () => {
 
           <div id="slide3" className="carousel-item relative w-full flex justify-center">
             <img 
-              src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp" 
+              src={brand3Image} 
               className="w-32 h-32 md:w-40 md:h-40 lg:w-48 lg:h-48 rounded-full object-cover" 
               alt="Brand 3" 
             />

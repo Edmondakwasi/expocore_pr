@@ -2,6 +2,7 @@ import React from 'react'
 
 import brand1Image from '../assets/brand1.png'
 import brand2Image from '../assets/brands.png'
+import brand3Image from '../assets/brand3.png'
 
 
 const Clients = () => {
@@ -26,7 +27,7 @@ const Clients = () => {
           />
           
           <img
-            src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
+            src={brand3Image}
             alt="Client 3"
             className="rounded-full w-24 h-24 md:w-40 md:h-40 lg:w-48 lg:h-48 object-cover"
           />
