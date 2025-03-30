@@ -10,7 +10,7 @@ const Navbar = () => {
     <div className="navbar bg-base-100 relative">
       <div className="flex-1 ml-5">
         <a href="/">
-          <img src={Logo} alt="logo" className="w-32 h-16 p-2 md:w-40 md:h-20 md:ml-24" />
+          <img src={Logo} alt="logo" className="w-32 h-16 p-2 md:w-50 md:h-15 md:ml-24" />
         </a>
       </div>
 
