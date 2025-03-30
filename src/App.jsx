@@ -5,7 +5,7 @@ import Hero from './components/Hero'
 import Navbar from './components/Navbar'
 import Clients from './components/Clients'
 import Services from './components/Services'
-// import Cards from './components/Cards'
+import Cards from './components/Cards'
 import Brands from './components/Brands'
 import Testimonials from './components/Testimonials'
 // import Casestudy from './components/Casestudy'
@@ -21,7 +21,7 @@ function App() {
       <Hero />
       <Clients />
       <Services />
-      {/* <Cards /> */}
+      <Cards />
       <Brands />
       <Testimonials />
       {/* <Casestudy /> */}

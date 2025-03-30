@@ -9,14 +9,14 @@ const Services = () => {
           <div className="grid grid-cols-2 gap-4 md:gap-6">
             <div className="card bg-primary text-primary-content">
               <div className="card-body p-4 md:p-6">
-                <h2 className="font-sans card-title text-lg md:text-xl">Global PR agency</h2>
+                <h2 className="font-sans card-title text-lg md:text-xl">Brand Promotion</h2>
                 <p className="font-sans text-sm md:text-base">We specialize in global PR for big brands.</p>
               </div>
             </div>
 
             <div className="card bg-primary text-primary-content">
               <div className="card-body p-4 md:p-6">
-                <h2 className="font-sans card-title text-lg md:text-xl">Internal Comms</h2>
+                <h2 className="font-sans card-title text-lg md:text-xl">Event Coordination</h2>
                 <p className="font-sans text-sm md:text-base">Internal communication for corporate.</p>
               </div>
             </div>
@@ -30,7 +30,7 @@ const Services = () => {
 
             <div className="card bg-primary text-primary-content">
               <div className="card-body p-4 md:p-6">
-                <h2 className="font-sans card-title text-lg md:text-xl">Digital PR</h2>
+                <h2 className="font-sans card-title text-lg md:text-xl">Social Media Management</h2>
                 <p className="font-sans text-sm md:text-base">We apply core PR principles to a digital context.</p>
               </div>
             </div>

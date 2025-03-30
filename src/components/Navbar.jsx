@@ -33,9 +33,9 @@ const Navbar = () => {
             <details className="mt-2">
               <summary>PR Services</summary>
               <ul className="bg-base-100 rounded-t-none p-2">
-                <li><a>Branding</a></li>
-                <li><a>Marketing</a></li>
-                <li><a>Advertisement</a></li>
+                <li><a>Brand Promotion</a></li>
+                <li><a>Event Coordination</a></li>
+                <li><a>Social Media Management</a></li>
               </ul>
             </details>
           </li>
