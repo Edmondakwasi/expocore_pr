@@ -71,6 +71,7 @@ const Navbar = () => {
                 <li><a>Brand Promotion</a></li>
                 <li><a>Event Coordination</a></li>
                 <li><a>Social Media Management</a></li>
+                <li><a>Influencer Marketing</a></li>
                 </ul>
               </details>
             </li>
