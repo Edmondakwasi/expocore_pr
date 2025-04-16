@@ -74,6 +74,7 @@ const Navbar = () => {
                 <li><a>Influencer Marketing</a></li>
                 <li><a>Influencer Marketing</a></li>
                 <li><a>Influencer Marketing</a></li>
+                <li><a>Influencer Marketing</a></li>
 
                 </ul>
               </details>
